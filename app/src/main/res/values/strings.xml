@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">ThreeTexts</string>
+    <string name="header_text">Click on a button!</string>
+    <string name="button_one_text">Button One</string>
+    <string name="button_two_text">Button Two</string>
+    <string name="button_three_text">Button Three</string>
+    <string name="passage_text_one">“What’s this? What’s this? There’s color everywhere.”\n
+“Listen, everyone. I want to tell you about Christmastown.”\n
+“What’s this? There’s white things in the air.”\n
+“My dearest friend, if you don’t mind, I’d like to join you by your side, where we can gaze into the stars.”\n
+“There’s frost on every window, I can’t believe my eyes. And in my bones I feel the warmth that’s coming from inside.”\n
+“What’s this? They’re hanging mistletoe, they kiss. Why that looks so unique, inspired!”\n
+“And sit together, now and forever, for it is plain as anyone can see, we’re simply meant to be.”\n
+“The streets are lined with little creatures laughing, everybody seems so happy, have I possibly gone daffy?”\n
+“There’s children throwing snowballs, instead of throwing heads. They’re busy building toys and absolutely no one’s dead.”\n
+“This is a thing called a present. The whole thing starts with a box.”\n
+“Just a box with bright-colored paper. And the whole thing’s topped with a bow.”\n
+“They’re gathering around to hear a story, roasting chestnuts on a fire.”\n
+“My what a brilliant nose you have. The better to light my way! To the head of the team, Zero! We’re off!”\n
+“What’s this? In here, they’ve got a little tree, how queer. They’re covering it with tiny little things. They’ve got electric lights on strings.”\n
+“The children are asleep, but look, there’s nothing underneath. No ghouls, no witches here to scream and scare them or ensnare them, only little cozy things.”\n
+“Instead of screams, I swear I can hear music in the air. The smell of cakes and pies are absolutely everywhere.”\n
+“The sights, the sounds, they’re everywhere and all around."\n
+“What is this place that I have found? What is this? Christmas town? Hmmm.”\n
+“Christmas time is buzzing in my skull, will it let me be I cannot tell.”\n
+“Through my bony fingers it does slip, like a snowflake in a fiery grip”\n
+“I’ve read these Christmas books so many times, I know the stories and I know the rhymes."\n
+"I know the Christmas carols all by heart, my skull’s so full, it’s tearing me apart.”\n
+“Just because I cannot see it, doesn’t mean I can’t believe it.”\n
+“I think this Christmas thing is not as tricky as it seems and why should they have all the fun? It should belong to everyone.”\n
+“Why, I could make a Christmas tree! And there’s no reason I can find I couldn’t handle Christmas time. I bet I could improve it, too and that’s exactly what I’ll do.” \n
+“Eureka! This year, Christmas will be ours!” \n
+“Forgive me, Mr. Claws. I’m afraid I’ve made a terrible mess of your holiday.” \n
+“Sandy Claws in person. What a pleasure to meet you. Why, you have hands! You don’t have claws at all.” \n
+“On a dark, cold night, under full moonlight, he flies into a fog like a vulture in the sky and they call him Sandy Claws.” \n
+“There’s got to be a logical way to explain this Christmas thing.”</string>
+    <string name="passage_text_two">“Frog’s breath will overpower any odor.”\n
+“Will we ever end up together? No, I think not, it’s never to become, for I am not the one.”\n
+“And does he notice my feelings for him? And will he see how much he means to me? I think it’s not to be.”\n
+“I sense there’s something in the wind that feels like tragedy’s at hand.”\n
+“Can’t shake this feeling that I have. The worst is just around the bend.”\n
+“I’d like to join the crowd, in their enthusiastic cloud.”\n
+“Someone has to help Jack! Where’d they take that Sandy Claws?”\n\n\n\n
+    “Frog’s breath will overpower any odor.”\n
+“Will we ever end up together? No, I think not, it’s never to become, for I am not the one.”\n
+“And does he notice my feelings for him? And will he see how much he means to me? I think it’s not to be.”\n
+“I sense there’s something in the wind that feels like tragedy’s at hand.”\n
+“Can’t shake this feeling that I have. The worst is just around the bend.”\n
+“I’d like to join the crowd, in their enthusiastic cloud.”\n
+“Someone has to help Jack! Where’d they take that Sandy Claws?”\n\n\n\n
+    “Frog’s breath will overpower any odor.”\n
+“Will we ever end up together? No, I think not, it’s never to become, for I am not the one.”\n
+“And does he notice my feelings for him? And will he see how much he means to me? I think it’s not to be.”\n
+“I sense there’s something in the wind that feels like tragedy’s at hand.”\n
+“Can’t shake this feeling that I have. The worst is just around the bend.”\n
+“I’d like to join the crowd, in their enthusiastic cloud.”\n
+“Someone has to help Jack! Where’d they take that Sandy Claws?”</string>
+    <string name="passage_text_three">“This ‘Christmas’ sounds fun. I fully endorse it. Let’s try it at once.” <i>— Mayor</i>\n
+“Kidnap Mr. Sandy Claws?” <i>— Lock, Shock and Barrel</i>\n
+“Kidnap the Sandy Claws, lock him up real tight. Throw away the key and then turn off all the lights.” <i>— Lock, Shock and Barrel</i>\n
+“Jack, please, I’m only an elected an official here, I can’t make decisions by myself.” <i>— Mayor</i>\n
+“I knew this Christmas thing was a bad idea. I felt it in my gut.” <i>— Mayor</i>\n
+“Nothing’s more suspicious than frog’s breath. Until you taste it, I won’t swallow a spoonful.”<i>— Dr. Finkelstein</i>\n
+“That and this, with all our tricks we’re making Christmastime.” <i>— Three Mr. Hydes</i>\n
+“Haven’t you heard of peace on earth and good will toward men?” <i>— Sandy Claws</i>\n
+“Naughty children never get any presents.” <i>— Sandy Claws</i>\n
+“Bumpy sleigh ride, Jack?” <i>— Sandy Claws</i>\n
+“Good news, folks. Santa Claus, the one and only has finally been spotted. Old Saint Nick appears to be traveling at supersonic speed.” <i>— Newscaster</i>\n\n\n\n
+“This ‘Christmas’ sounds fun. I fully endorse it. Let’s try it at once.” <i>— Mayor</i>\n
+“Kidnap Mr. Sandy Claws?” <i>— Lock, Shock and Barrel</i>\n
+“Kidnap the Sandy Claws, lock him up real tight. Throw away the key and then turn off all the lights.” <i>— Lock, Shock and Barrel</i>\n
+“Jack, please, I’m only an elected an official here, I can’t make decisions by myself.” <i>— Mayor</i>\n
+“I knew this Christmas thing was a bad idea. I felt it in my gut.” <i>— Mayor</i>\n
+“Nothing’s more suspicious than frog’s breath. Until you taste it, I won’t swallow a spoonful.”<i>— Dr. Finkelstein</i>\n
+“That and this, with all our tricks we’re making Christmastime.” <i>— Three Mr. Hydes</i>\n
+“Haven’t you heard of peace on earth and good will toward men?” <i>— Sandy Claws</i>\n
+“Naughty children never get any presents.” <i>— Sandy Claws</i>\n
+“Bumpy sleigh ride, Jack?” <i>— Sandy Claws</i>\n
+“Good news, folks. Santa Claus, the one and only has finally been spotted. Old Saint Nick appears to be traveling at supersonic speed.” <i>— Newscaster</i>\n\n\n\n
+“This ‘Christmas’ sounds fun. I fully endorse it. Let’s try it at once.” <i>— Mayor</i>\n
+“Kidnap Mr. Sandy Claws?” <i>— Lock, Shock and Barrel</i>\n
+“Kidnap the Sandy Claws, lock him up real tight. Throw away the key and then turn off all the lights.” <i>— Lock, Shock and Barrel</i>\n
+“Jack, please, I’m only an elected an official here, I can’t make decisions by myself.” <i>— Mayor</i>\n
+“I knew this Christmas thing was a bad idea. I felt it in my gut.” <i>— Mayor</i>\n
+“Nothing’s more suspicious than frog’s breath. Until you taste it, I won’t swallow a spoonful.”<i>— Dr. Finkelstein</i>\n
+“That and this, with all our tricks we’re making Christmastime.” <i>— Three Mr. Hydes</i>\n
+“Haven’t you heard of peace on earth and good will toward men?” <i>— Sandy Claws</i>\n
+“Naughty children never get any presents.” <i>— Sandy Claws</i>\n
+“Bumpy sleigh ride, Jack?” <i>— Sandy Claws</i>\n
+“Good news, folks. Santa Claus, the one and only has finally been spotted. Old Saint Nick appears to be traveling at supersonic speed.” <i>— Newscaster</i>\n\n\n\n
+“This ‘Christmas’ sounds fun. I fully endorse it. Let’s try it at once.” <i>— Mayor</i>\n
+“Kidnap Mr. Sandy Claws?” <i>— Lock, Shock and Barrel</i>\n
+“Kidnap the Sandy Claws, lock him up real tight. Throw away the key and then turn off all the lights.” <i>— Lock, Shock and Barrel</i>\n
+“Jack, please, I’m only an elected an official here, I can’t make decisions by myself.” <i>— Mayor</i>\n
+“I knew this Christmas thing was a bad idea. I felt it in my gut.” <i>— Mayor</i>\n
+“Nothing’s more suspicious than frog’s breath. Until you taste it, I won’t swallow a spoonful.”<i>— Dr. Finkelstein</i>\n
+“That and this, with all our tricks we’re making Christmastime.” <i>— Three Mr. Hydes</i>\n
+“Haven’t you heard of peace on earth and good will toward men?” <i>— Sandy Claws</i>\n
+“Naughty children never get any presents.” <i>— Sandy Claws</i>\n
+“Bumpy sleigh ride, Jack?” <i>— Sandy Claws</i>\n
+“Good news, folks. Santa Claus, the one and only has finally been spotted. Old Saint Nick appears to be traveling at supersonic speed.” <i>— Newscaster</i>
+</string>
+</resources>
